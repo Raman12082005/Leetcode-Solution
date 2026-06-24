@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i">4318. Valid Subarrays With Matching Sum Digits I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer digit <code>x</code>.</p>
+<h2><a href="https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i">3969. Valid Subarrays With Matching Sum Digits I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and an integer digit <code>x</code>.</p>
 
 <p>A <span data-keyword="subarray-nonempty"><strong>subarray</strong></span> <code>nums[l..r]</code> is considered <strong>valid</strong> if the sum of its elements satisfies both of the following conditions:</p>
 
