@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves">4340. Maximum Manhattan Distance After All Moves</a></h2><h3>Medium</h3><hr><p>You are given a string <code>moves</code> consisting of the characters <code>&#39;U&#39;</code>, <code>&#39;D&#39;</code>, <code>&#39;L&#39;</code>, <code>&#39;R&#39;</code>, and <code>&#39;_&#39;</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves">3968. Maximum Manhattan Distance After All Moves</a></h2><h3>Medium</h3><hr><p>You are given a string <code>moves</code> consisting of the characters <code>&#39;U&#39;</code>, <code>&#39;D&#39;</code>, <code>&#39;L&#39;</code>, <code>&#39;R&#39;</code>, and <code>&#39;_&#39;</code>.</p>
 
 <p>Starting from the origin <code>(0, 0)</code>, each character represents one move on a 2D plane:</p>
 
