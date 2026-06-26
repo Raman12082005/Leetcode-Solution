@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-lights-to-illuminate-a-road">4330. Minimum Lights to Illuminate a Road</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>lights</code> of length <code>n</code>, representing positions 0 through <code>n - 1</code> on a road.</p>
+<h2><a href="https://leetcode.com/problems/minimum-lights-to-illuminate-a-road">3964. Minimum Lights to Illuminate a Road</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>lights</code> of length <code>n</code>, representing positions 0 through <code>n - 1</code> on a road.</p>
 
 <p>For each position <code>i</code>:</p>
 
