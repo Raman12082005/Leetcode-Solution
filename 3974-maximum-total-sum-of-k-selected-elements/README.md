@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements">4348. Maximum Total Sum of K Selected Elements</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>k</code> and <code>mul</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements">3974. Maximum Total Sum of K Selected Elements</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>k</code> and <code>mul</code>.</p>
 
 <p>Select <strong>exactly</strong> <code>k</code> elements from <code>nums</code>. Process these elements one by one in any order you choose.</p>
 
