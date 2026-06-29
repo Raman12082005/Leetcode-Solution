@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-town-judge">1039. Find the Town Judge</a></h2><h3>Easy</h3><hr><p>In a town, there are <code>n</code> people labeled from <code>1</code> to <code>n</code>. There is a rumor that one of these people is secretly the town judge.</p>
+<h2><a href="https://leetcode.com/problems/find-the-town-judge">0997. Find the Town Judge</a></h2><h3>Easy</h3><hr><p>In a town, there are <code>n</code> people labeled from <code>1</code> to <code>n</code>. There is a rumor that one of these people is secretly the town judge.</p>
 
 <p>If the town judge exists, then:</p>
 
