@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-subarray-sum-after-multiplier">3730. Maximum Subarray Sum After Multiplier</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and a positive integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-subarray-sum-after-multiplier">3976. Maximum Subarray Sum After Multiplier</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and a positive integer <code>k</code>.</p>
 
 <p>You must choose <strong>exactly</strong> one <span data-keyword="subarray-nonempty">subarray</span> of <code>nums</code> and perform <strong>exactly</strong> one of the following operations:</p>
 
