@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [1768-merge-strings-alternately](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
@@ -22,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
