@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/frequency-balance-subarray">4322. Frequency Balance Subarray</a></h2><h3>Medium</h3><hr><p>You are given an integer array ​​​​​​​<code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/frequency-balance-subarray">3960. Frequency Balance Subarray</a></h2><h3>Medium</h3><hr><p>You are given an integer array ​​​​​​​<code>nums</code>.</p>
 
 <p>Define a <strong>frequency balance <span data-keyword="subarray-nonempty">subarray</span></strong> as follows:</p>
 
