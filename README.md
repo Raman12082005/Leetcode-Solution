@@ -23,6 +23,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 <!---LeetCode Topics End-->
