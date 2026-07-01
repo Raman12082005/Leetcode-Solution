@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximize-sum-of-device-ratings">4004. Maximize Sum of Device Ratings</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>units</code> of size <code>m &times; n</code> where <code>units[i][j]</code> represents the capacity of the <code>j<sup>th</sup></code> unit in the <code>i<sup>th</sup></code> device. Each device contains <strong>exactly</strong> <code>n</code> units.</p>
+<h2><a href="https://leetcode.com/problems/maximize-sum-of-device-ratings">3961. Maximize Sum of Device Ratings</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>units</code> of size <code>m &times; n</code> where <code>units[i][j]</code> represents the capacity of the <code>j<sup>th</sup></code> unit in the <code>i<sup>th</sup></code> device. Each device contains <strong>exactly</strong> <code>n</code> units.</p>
 
 <p>The <strong>rating</strong> of a device is the <strong>minimum</strong> capacity among all its units.</p>
 
