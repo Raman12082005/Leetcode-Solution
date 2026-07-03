@@ -4,12 +4,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
