@@ -25,6 +25,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -69,12 +70,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
@@ -88,6 +91,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
