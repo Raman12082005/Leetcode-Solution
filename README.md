@@ -42,6 +42,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 | [1288-remove-covered-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Trie
@@ -146,4 +148,5 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
