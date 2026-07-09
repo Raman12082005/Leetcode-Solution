@@ -77,6 +77,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -87,6 +88,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
@@ -107,12 +109,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
