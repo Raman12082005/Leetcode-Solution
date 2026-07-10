@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
+| [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -171,4 +173,12 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
