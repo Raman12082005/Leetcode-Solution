@@ -24,6 +24,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0287-find-the-duplicate-number](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
@@ -125,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
@@ -167,6 +170,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 ## Prefix Sum
@@ -181,4 +185,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
