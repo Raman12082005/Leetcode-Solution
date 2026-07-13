@@ -211,4 +211,8 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
