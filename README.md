@@ -41,6 +41,7 @@
 | [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0217-contains-duplicate](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -55,6 +56,7 @@
 | [0001-two-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0217-contains-duplicate](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 ## Math
@@ -155,6 +157,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 ## String Matching
