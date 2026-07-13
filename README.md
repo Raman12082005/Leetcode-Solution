@@ -13,6 +13,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0217-contains-duplicate) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0217-contains-duplicate) |
@@ -160,6 +163,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
