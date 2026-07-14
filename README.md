@@ -54,6 +54,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Trie
 |  |
@@ -194,6 +196,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
