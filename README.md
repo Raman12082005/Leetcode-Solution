@@ -76,6 +76,7 @@
 | [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
@@ -224,4 +225,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
