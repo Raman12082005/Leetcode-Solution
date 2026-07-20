@@ -37,6 +37,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -53,6 +54,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
+| [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
