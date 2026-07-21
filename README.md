@@ -81,6 +81,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0396-rotate-function](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
