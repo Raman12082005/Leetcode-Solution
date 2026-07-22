@@ -52,6 +52,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
@@ -148,6 +149,7 @@
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
@@ -172,6 +174,7 @@
 | [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0396-rotate-function) |
+| [0542-01-matrix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -225,6 +228,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
