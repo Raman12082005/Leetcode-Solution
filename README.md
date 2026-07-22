@@ -53,6 +53,7 @@
 | [0396-rotate-function](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -143,6 +144,7 @@
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -216,6 +218,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
