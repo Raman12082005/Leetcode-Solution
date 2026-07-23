@@ -57,6 +57,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
@@ -137,6 +138,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -153,6 +155,7 @@
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -231,6 +234,7 @@
 | [0542-01-matrix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -259,6 +263,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Enumeration
 |  |
