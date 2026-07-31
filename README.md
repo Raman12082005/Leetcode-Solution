@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
@@ -50,6 +51,7 @@
 | [0001-two-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0130-surrounded-regions) |
