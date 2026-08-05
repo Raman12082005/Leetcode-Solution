@@ -127,6 +127,7 @@
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3310-remove-methods-from-project](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3310-remove-methods-from-project](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3310-remove-methods-from-project](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
