@@ -112,6 +112,7 @@
 | [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -218,6 +219,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -305,6 +307,7 @@
 | [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -358,8 +361,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
