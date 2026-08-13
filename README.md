@@ -27,6 +27,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -83,6 +84,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -378,4 +380,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
