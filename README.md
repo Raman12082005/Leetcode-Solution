@@ -27,6 +27,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -129,6 +130,7 @@
 | [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -253,6 +255,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -335,6 +338,7 @@
 | [1406-stone-game-iii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Monotonic Stack
 |  |
