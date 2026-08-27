@@ -35,6 +35,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -119,6 +120,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -265,6 +267,7 @@
 | [2029-stone-game-ix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Topological Sort
 |  |
 | ------- |
@@ -365,6 +368,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1291-sequential-digits) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -384,6 +388,7 @@
 | ------- |
 | [2029-stone-game-ix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
