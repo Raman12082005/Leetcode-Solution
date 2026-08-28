@@ -12,6 +12,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1768-merge-strings-alternately](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -36,6 +37,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -369,6 +371,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1291-sequential-digits) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
