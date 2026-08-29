@@ -96,6 +96,7 @@
 | [2029-stone-game-ix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -291,6 +292,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -366,6 +368,7 @@
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Enumeration
 |  |
 | ------- |
