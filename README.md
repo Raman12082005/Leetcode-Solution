@@ -107,6 +107,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Hash Table
 |  |
@@ -341,6 +342,7 @@
 | [1872-stone-game-viii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Brainteaser
 |  |
 | ------- |
