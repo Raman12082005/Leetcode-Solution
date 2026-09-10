@@ -183,6 +183,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -238,6 +240,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
