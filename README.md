@@ -30,6 +30,7 @@
 | [1096-brace-expansion-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -101,6 +102,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2029-stone-game-ix) |
@@ -139,6 +141,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
