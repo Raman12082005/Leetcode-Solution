@@ -1,12 +1,13 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int maxpranthesis = 0, openbracket = 0;
-        for(int i=0; i<s.size(); i++){
-            if(s[i] == '(') openbracket++;
-            if(s[i] == ')') openbracket--;
-            maxpranthesis = max(maxpranthesis, openbracket);
+        int depth = 0, n= s.size();
+        int ans = 0;
+        for(auto ch : s){
+            if(ch == '(') depth++;
+            ans = max(depth, ans);
+            if(ch == ')') depth--;
         }
-        return maxpranthesis;
+        return ans;
     }
 };
