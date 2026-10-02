@@ -21,6 +21,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0396-rotate-function) |
@@ -468,6 +470,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -516,6 +519,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
