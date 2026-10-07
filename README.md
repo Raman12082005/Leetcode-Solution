@@ -28,6 +28,7 @@
 | [0127-word-ladder](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -260,6 +261,7 @@
 | [0130-surrounded-regions](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
@@ -483,6 +485,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
