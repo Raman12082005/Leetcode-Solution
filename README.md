@@ -127,6 +127,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -333,6 +334,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -359,6 +361,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -375,6 +378,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -476,6 +480,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
