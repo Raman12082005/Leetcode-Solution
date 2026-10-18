@@ -1,23 +1,22 @@
 class Solution {
 public:
     int scoreOfParentheses(string s) {
-        return F(s, 0, s.length());
-    }
+        int n = s.size();
+        // base cases
 
-private:
-    int F(const string& s, int i, int j) {
-        int ans = 0, bal = 0;
-        for (int k = i; k < j; ++k) {
-            bal += (s[k] == '(' ? 1 : -1);
-            if (bal == 0) {
-                if (k - i == 1) {
-                    ans++;
-                } else {
-                    ans += 2 * F(s, i + 1, k);
-                }
-                i = k + 1;
+
+        stack<int> st;
+        st.push(0);
+        for(auto it : s){
+            if(it == '(') st.push(0);
+            else{
+                int inner = st.top();
+                st.pop();
+
+                int score = (inner == 0) ? 1 : 2 * inner;
+                st.top() += score;
             }
         }
-        return ans;
+        return st.top();
     }
 };
