@@ -6,23 +6,23 @@ public:
 
 
         int count = 0;
-        stack<char> st;
+        int open = 0;
         for(int i=0; i<n; i++){
-            if(s[i] == '(') st.push('(');
+            if(s[i] == '(') open++;
             else if(i < n-1 && s[i] == ')' && s[i+1] == ')'){
                 i++;
-                if(st.empty()) count++;
-                else st.pop();
+                if(open == 0) count++;
+                else open--;
             }
             else{
-                if(st.empty()) count += 2;
+                if(open == 0) count += 2;
                 else{
                     count++;
-                    st.pop();
+                    open--;
                 }
             }
         }
-        count += 2*st.size();
+        count += 2*open;
         return count;
     }
 };
