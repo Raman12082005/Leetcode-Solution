@@ -1,25 +1,22 @@
 class Solution {
 public:
-    string removeOuterParentheses(string str) {
-        int n= str.size();
-        if(n==0) return "";
-        stack<char> st;
-        string ans = "";
+    string removeOuterParentheses(string s) {
+        int n = s.size();
+        // base cases
+
+
+        string str = "";
+        int first = 0;
+        int opening = 0;
         for(int i=0; i<n; i++){
-            if(st.empty()){
-                st.push(str[i]);
-                continue;
-            }
-            if(str[i] == '('){
-                st.push(str[i]);
-            }
-            if(str[i] == ')'){
-                st.pop();
-            }
-            if(!st.empty()){
-                ans+=str[i];
+            if(s[i] == '(') opening++;
+            else opening--;
+
+            if(opening == 0){
+                str += s.substr(first+1, i-first-1);
+                first = i+1;
             }
         }
-        return ans;
+        return str;
     }
 };
