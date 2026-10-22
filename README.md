@@ -154,6 +154,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Raman12082005/Leetcode-Solution/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
