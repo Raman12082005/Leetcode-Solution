@@ -113,6 +113,7 @@
 | [0997-find-the-town-judge](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
@@ -269,6 +270,7 @@
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
@@ -292,6 +294,7 @@
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3310-remove-methods-from-project](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -429,6 +432,7 @@
 | [0835-image-overlap](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -474,6 +478,7 @@
 | [0200-number-of-islands](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
