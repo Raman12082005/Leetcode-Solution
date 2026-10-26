@@ -153,6 +153,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -368,6 +369,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Topological Sort
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3886-sum-of-sortable-integers) |
