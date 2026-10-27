@@ -1,18 +1,22 @@
 class Solution {
 public:
-    vector<string> createGrid(int m, int n) {
-        string str1, str2;
-        for(int j=0; j<n; j++){
-            str1 += '.';
-            str2 += '#';
-        }
-        str2[n-1] = '.';
+    vector<string> createGrid(int n, int m) {
+        // base cases
 
-        vector<string> ans(m);
-        ans[0] = str1;
-        for(int i=1; i<m; i++){
-            ans[i] = str2;
+
+
+        vector<vector<char>> grid(n, vector<char>(m, '#'));
+        for(int i=0; i<n; i++) grid[i][m-1] = '.';
+        for(int j=0; j<m-1; j++) grid[0][j] = '.';
+
+        vector<string> res;
+        for(int i=0; i<n; i++){
+            string str = "";
+            for(int j=0; j<m; j++){
+                str += grid[i][j];
+            }
+            res.push_back(str);
         }
-        return ans;
+        return res;
     }
 };
