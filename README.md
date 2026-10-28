@@ -158,6 +158,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -348,6 +349,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Trie
 |  |
@@ -428,6 +430,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -449,6 +452,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Raman12082005/Leetcode-Solution/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Prefix Sum
 |  |
