@@ -104,6 +104,7 @@
 | [0396-rotate-function](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -198,6 +199,7 @@
 | [0149-max-points-on-a-line](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0396-rotate-function](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1025-divisor-game) |
@@ -394,6 +396,7 @@
 | [0049-group-anagrams](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raman12082005/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
