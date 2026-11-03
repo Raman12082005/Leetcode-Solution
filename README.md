@@ -170,6 +170,7 @@
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Raman12082005/Leetcode-Solution/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Raman12082005/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Raman12082005/Leetcode-Solution/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Raman12082005/Leetcode-Solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Raman12082005/Leetcode-Solution/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Math
 |  |
 | ------- |
@@ -604,6 +606,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raman12082005/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raman12082005/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raman12082005/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Raman12082005/Leetcode-Solution/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Linked List
 |  |
 | ------- |
