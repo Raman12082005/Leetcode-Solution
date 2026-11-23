@@ -1,31 +1,37 @@
 class Solution {
 public:
-    void dfs(int r, int c, int m, int n, vector<vector<char>>& grid, vector<vector<bool>>& visited){
-        // base cases
-        if(r<0 || r>=m || c<0 || c>=n || grid[r][c] == '0' || visited[r][c]) return;
-
+    vector<int> dx = {1, -1, 0, 0}, dy = {0, 0, 1, -1};
+    void helper(int r, int c, vector<vector<char>>& grid, vector<vector<bool>>& visited){
+        int n = grid.size();
+        int m = grid[0].size();
         visited[r][c] = true;
-        dfs(r+1, c, m, n, grid, visited);
-        dfs(r, c+1, m, n, grid, visited);
-        dfs(r-1, c, m, n, grid, visited);
-        dfs(r, c-1, m, n, grid, visited);
-    }    
+
+        for(int k=0; k<4; k++){
+            int rx = r + dx[k];
+            int cx = c + dy[k];
+
+            if(rx<0 || rx>=n || cx<0 || cx>=m || grid[rx][cx] == '0' || visited[rx][cx] == true){
+                continue;
+            } 
+            helper(rx, cx, grid, visited);
+        }
+    }
     int numIslands(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
         // base cases
 
 
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
-        int cnt = 0;
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(!visited[i][j] && grid[i][j] == '1'){
-                    cnt++;
-                    dfs(i, j, m, n, grid, visited);
+        vector<vector<bool>> visited(n, vector<bool>(m, false));
+        int islands = 0;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j] == '1' && !visited[i][j]){
+                    islands++;
+                    helper(i, j, grid, visited);
                 }
             }
         }
-        return cnt;
+        return islands;
     }
 };
